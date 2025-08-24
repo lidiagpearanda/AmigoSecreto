@@ -15,7 +15,7 @@ function agregarAmigo() {
 
   amigos.push(nombre);
 
-
+//holaprueba
   input.value = "";
   console.log("Lista de amigos:", amigos);
 }
